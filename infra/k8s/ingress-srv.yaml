@@ -1,0 +1,16 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: ingress-service
+  annotations:
+    kubernetes.io/ingress.class: nginx
+    nginx.ingress.kubernetes.io/use-regex: 'true'
+spec:
+  rules:
+    - host: dreamshopping.com
+      http:
+        paths:
+          - path: /?(.*)
+            backend:
+              serviceName: frontend-srv
+              servicePort: 3000

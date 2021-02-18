@@ -18,4 +18,4 @@ Founded: 11/2/2021
 
 Finished: ???
 
-Written Language: MERN stack (Mongodb, Expressjs, Reactjs and Nodejs), Docker, Yaml, Json.
+Written Language: JavaScript(ReactJS), Docker, Yaml, Json.

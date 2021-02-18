@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/sehermahmud/seher-clothing/issues"
   },
-  "homepage": "https://github.com/sehermahmud/seher-clothing#readme"
+  "homepage": "https://github.com/sehermahmud/seher-clothing#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "next": "^9.3.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
 }

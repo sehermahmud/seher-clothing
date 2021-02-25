@@ -1,16 +1,22 @@
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/sehermahmud/seher-clothing">
     <img src="https://i.imgur.com/L9QUhpr.png" alt="Logo" width="25%" height="35%">
   </a>
-</p> -->
+</p>
 
-# Seher Commerce
+# Dream Shopping
 
-E-commerce app: [seher-commerce](https://github.com/sehermahmud/seher-clothing)
+E-commerce app: [DreamShopping](https://github.com/sehermahmud/seher-clothing)
+
+##### warning
+
+Don't copy this projest, don't deploy this projest but you can add or change styles, function and other stuffs and then deploy the project.
+
+### Don't copy!!!
 
 ### Decription
 
-Seher Commerce is a Clothing E-commerce app were people can buy hats, jacket, cloth stuffs...etc. This will be a very large E-commerce project, that I am doing.
+Dream Shopping is a Clothing E-commerce app were people can buy hats, jacket, cloth stuffs...etc. This will be a very large E-commerce project, that I am doing.
 
 Founder: Seher Mahmud
 

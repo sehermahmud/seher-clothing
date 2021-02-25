@@ -9,7 +9,7 @@ import MenuItem from '../menu-item/menu-item.component';
 import { DirectoryMenuContainer } from './directory.styles';
 
 const Directory = ({ sections }) => (
-  <DirectoryMenuContainer style={{ marginRight: '2rem', marginLeft: '2rem' }}>
+  <DirectoryMenuContainer>
     {sections.map(({ id, ...otherSectionProps }) => (
       <MenuItem key={id} {...otherSectionProps} />
     ))}

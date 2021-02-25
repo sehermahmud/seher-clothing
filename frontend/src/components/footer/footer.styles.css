@@ -1,0 +1,13 @@
+.footer {
+  position: static;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: '#e0e0e0';
+  position: 'static';
+  height: '2.5em';
+}
+
+.sehertext {
+  text-align: center;
+}

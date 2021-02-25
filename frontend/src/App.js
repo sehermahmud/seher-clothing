@@ -4,6 +4,7 @@ import { connect } from 'react-redux';
 import { createStructuredSelector } from 'reselect';
 
 import Header from './components/header/header.component';
+import Footer from './components/footer/footer.component';
 import Spinner from './components/spinner/spinner.component';
 import ErrorBoundary from './components/error-boundary/error-boundary.component';
 
@@ -44,6 +45,7 @@ const App = ({ checkUserSession, currentUser }) => {
           </Suspense>
         </ErrorBoundary>
       </Switch>
+      <Footer />
     </div>
   );
 };

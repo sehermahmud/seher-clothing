@@ -1,9 +1,9 @@
 {
-  "short_name": "seher E-commerce",
-  "name": "seher Clothing E-commerce",
+  "short_name": "DreamShop",
+  "name": "DreamShopping",
   "icons": [
     {
-      "src": "crown.svg",
+      "src": "https://i.imgur.com/L9QUhpr.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }

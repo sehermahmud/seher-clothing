@@ -8,11 +8,13 @@
 
 E-commerce app: [DreamShopping](https://github.com/sehermahmud/seher-clothing)
 
-- ![#f03c15](warning) `#f03c15`
+```diff
+- warning
 
-Don't copy this projest, don't deploy this projest but you can add or change styles, function and other stuffs and then deploy the project.
+- Don't copy this projest, don't deploy this projest but you can add or change styles, function and other stuffs and then deploy the project.
 
-### Don't copy!!!
+- Don't copy!!!
+```
 
 ### Decription
 
